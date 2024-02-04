@@ -1,0 +1,14 @@
+*{
+  background-color: #212224;
+  color: white;
+}
+
+
+#b1{
+  background-color: #DF5D8B;
+  color: white;
+}
+#b1:hover{
+  background-color: white;
+  color: #DF5D8B;
+}
